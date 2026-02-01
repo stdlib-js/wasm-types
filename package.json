@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/wasm-types",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "WebAssembly TypeScript type declarations.",
   "license": "Apache-2.0",
   "author": {
@@ -68,11 +68,6 @@
     "wasm",
     "webassembly"
   ],
-  "__stdlib__": {
-    "envs": {
-      "browser": false
-    }
-  },
   "funding": {
     "type": "opencollective",
     "url": "https://opencollective.com/stdlib"
